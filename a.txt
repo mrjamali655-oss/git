@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 heloo
 
+=======
+helloooooo
+slm
+>>>>>>> 2e14f13ed2e8f63a9f62126b8fe1111d469faa1e
